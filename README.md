@@ -17,6 +17,12 @@ GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
 - Documentation:      README.md
 - Notebook:           **yourname_eda.ipynb**
 
+## Coffee Shop Dataset 
+
+The dataset is saved within the repo as coffee.csv
+
+It is a clean dataset from Kaggle.com at the following link:
+https://www.kaggle.com/datasets/jawad3664/coffee-shop?resource=download 
 
 # ======================================================
 # STEP A - CREATE A LOCAL PROJECT VIRTUAL ENV (.venv)
