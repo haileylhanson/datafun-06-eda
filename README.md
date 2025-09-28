@@ -24,9 +24,9 @@ The dataset is saved within the repo as coffee.csv
 It is a clean dataset from Kaggle.com at the following link:
 https://www.kaggle.com/datasets/jawad3664/coffee-shop?resource=download 
 
-# ======================================================
+# ---
 # STEP A - CREATE A LOCAL PROJECT VIRTUAL ENV (.venv)
-# ======================================================
+# ---
 
 # Create your local project virtual environment
 # This step ensures you have an isolated Python environment for your project.
@@ -44,9 +44,9 @@ https://www.kaggle.com/datasets/jawad3664/coffee-shop?resource=download
 # Do you want to select it for the workspace folder?
 # Click Yes. 
 
-# ======================================================
+# ---
 # STEP B - ALWAYS ACTIVATE THE (.venv) WHEN OPENING A NEW TERMINAL
-# ======================================================
+# ---
 
 # ALWAYS activate the .venv before working on the project.
 # Activate whenever you open a new terminal. 
